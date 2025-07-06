@@ -73,9 +73,7 @@ Com o banco de dados configurado e pronto:
 
 1.  **Explore os arquivos `.sql`**: Abra os arquivos de `01_buscas_simples.sql` a `12_analise_de_vendas.sql` em seu editor de texto ou IDE de banco de dados.
 2.  **Execute as queries**: Conecte-se ao banco de dados que você configurou (usando `USE seu_banco_de_dados;` se necessário) e execute as queries linha por linha ou em blocos para observar os resultados em tempo real.
-3.  **Entenda os comentários**: Cada query possui comentários explicativos em português, detalhando sua funcionalidade e o que ela busca alcançar.
-
-Sinta-se à vontade para modificar e experimentar as queries. A prática leva à perfeição!
+3.  **Entenda os comentários**: Cada query possui comentários explicativos, detalhando sua funcionalidade e o que ela busca alcançar.
 
 ---
 
